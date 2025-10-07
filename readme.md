@@ -120,7 +120,7 @@ console.log(getElementWidth("200px", "0px", "0px")); // 200
 
 ---
 
-# 👩‍💻 Author
+## 👩‍💻 Author
 
 **Halenur Gürel**
 Homework Project - _JavaScript Function Exercises_
