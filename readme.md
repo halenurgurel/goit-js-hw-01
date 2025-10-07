@@ -120,11 +120,11 @@ console.log(getElementWidth("200px", "0px", "0px")); // 200
 
 ---
 
-# 👩‍💻 Author
+## 👩‍💻 Author
 
-**Halenur Gürel**
-Homework Project - _JavaScript Function Exercises_
-📍 JS · Functions · Template Literals · Parsing Numbers
+**Halenur Gürel**  
+Homework project – _JavaScript Function Exercises_  
+📍 JS · Functions · Parsing Numbers  
 🔗 [GitHub Profile](https://github.com/halenurgurel)
 
 ---
